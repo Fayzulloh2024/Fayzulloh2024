@@ -1,12 +1,46 @@
-- 👋 Hi, I’m @Fayzulloh2024
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Fayzulloh Ravshanxonov - Java Backend Developer
 
-<!---
-Fayzulloh2024/Fayzulloh2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Introduction
+Hello! 👋 My name is Fayzulloh Ravshanxonov , a Java Backend Developer from Uzbekistan. I enjoy crafting robust backend solutions using modern technologies.
+
+## About Me
+- ✨ Creating bugs since ...
+- 📚 Currently studying at Pdp Academy, mastering REST API development with Spring Boot.
+- 🎯 Goals: To become a highly skilled software engineer.
+- 🎲 Fun fact: I enjoy solving complex algorithms in my free time.
+
+## Technologies I Work With
+
+### Backend Technologies
+- Java
+- Spring Framework
+- Spring Boot
+- Spring MVC
+- Spring Security
+- WebSocket (Java backend)
+- Jakarta EE (JSP, Servlets)
+- Hibernate ORM
+- Docker
+- AWS
+
+### Database Technologies
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Frontend Technologies
+- Basic JavaScript
+- Thymeleaf
+- CSS
+- Bootstrap
+- HTML5
+
+### RESTful API Development
+- Spring HATEOAS
+- Spring Data REST
+- Securing REST API
+
+## Contact Me
+Feel free to reach out to me via:
+- Email: [fayzulloh8126.com](mailto:fayzulloh8126@gmail.com)
+- Telegram: [@ravshanxonov](https://t.me/ravshanxonov)
