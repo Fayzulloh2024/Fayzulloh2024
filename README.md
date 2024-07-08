@@ -23,6 +23,8 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov , a Java Backend Developer from Uz
 - Docker
 - AWS
 - Telegram Bot
+- Swagger
+- Postman
 ### Database Technologies
 - PostgreSQL
 - MySQL
