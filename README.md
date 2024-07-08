@@ -22,7 +22,7 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov , a Java Backend Developer from Uz
 - Hibernate ORM
 - Docker
 - AWS
-
+-Telegram Bot
 ### Database Technologies
 - PostgreSQL
 - MySQL
