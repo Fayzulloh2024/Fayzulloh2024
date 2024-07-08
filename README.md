@@ -42,5 +42,5 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov , a Java Backend Developer from Uz
 
 ## Contact Me
 Feel free to reach out to me via:
-- Email: [fayzulloh8126.com](mailto:fayzulloh8126@gmail.com)
+- Email: [fayzulloh8126@gmail.com](mailto:fayzulloh8126@gmail.com)
 - Telegram: [@ravshanxonov](https://t.me/ravshanxonov)
