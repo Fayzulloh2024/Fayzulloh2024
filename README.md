@@ -1,7 +1,7 @@
 # Fayzulloh Ravshanxonov - Java Backend Developer
 
 ## Introduction
-Hello! 👋 My name is Fayzulloh Ravshanxonov , a Java Backend Developer from Uzbekistan. I enjoy crafting robust backend solutions using modern technologies.
+Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzbekistan. I enjoy crafting robust backend solutions using modern technologies.
 
 ## About Me
 - ✨ Creating bugs since ...
@@ -25,6 +25,8 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov , a Java Backend Developer from Uz
 - Telegram Bot
 - Swagger
 - Postman
+- Maven
+
 ### Database Technologies
 - PostgreSQL
 - MySQL
@@ -41,6 +43,14 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov , a Java Backend Developer from Uz
 - Spring HATEOAS
 - Spring Data REST
 - Securing REST API
+
+## Other Skills for Backend Developers
+- Microservices Architecture
+- CI/CD (Continuous Integration/Continuous Deployment)
+- Git & GitHub
+- Unit Testing (JUnit, Mockito)
+- Design Patterns
+- Clean Code Practices
 
 ## Contact Me
 Feel free to reach out to me via:
