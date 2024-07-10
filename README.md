@@ -47,7 +47,6 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzb
 ## Other Skills for Backend Developers
 - Microservices Architecture
 - Git & GitHub
-- Unit Testing (JUnit, Mockito)
 - Design Patterns
 - Clean Code Practices
 
