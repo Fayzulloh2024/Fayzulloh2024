@@ -45,7 +45,7 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzb
 - Securing REST API
 
 ## Other Skills for Backend Developers
-- Microservices Architecture
+- Microservices 
 - Git & GitHub
 - Design Patterns
 - Clean Code Practices
