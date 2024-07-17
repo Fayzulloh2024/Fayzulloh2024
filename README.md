@@ -32,7 +32,6 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzb
 
 ### Database Technologies
 - PostgreSQL
-- MySQL
 - MongoDB
 
 ### Frontend Technologies
