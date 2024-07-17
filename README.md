@@ -28,6 +28,7 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzb
 - Maven
 - OOP
 - EOP
+- Microservices 
 
 ### Database Technologies
 - PostgreSQL
@@ -47,7 +48,6 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzb
 - Securing REST API
 
 ## Other Skills for Backend Developers
-- Microservices 
 - Git & GitHub
 - Design Patterns
 - Clean Code Practices
