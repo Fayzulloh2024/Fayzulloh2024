@@ -26,6 +26,8 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzb
 - Swagger
 - Postman
 - Maven
+- OOP
+- EOP
 
 ### Database Technologies
 - PostgreSQL
