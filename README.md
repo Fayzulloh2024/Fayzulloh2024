@@ -1,19 +1,16 @@
 # Fayzulloh Ravshanxonov - Java Backend Developer
 
 ## Introduction
-Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzbekistan. I enjoy crafting robust backend solutions using modern technologies.
+Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzbekistan. 
 
 ## About Me
 - ✨ Creating bugs since ...
 - 📚 Currently studying at Pdp Academy, mastering REST API development with Spring Boot.
 - 🎯 Goals: To become a highly skilled software engineer.
-- 🎲 Fun fact: I enjoy solving complex algorithms in my free time.
 
-## Technologies I Work With
 
 ### Backend Technologies
 - Java
-- Spring Framework
 - Spring Boot
 - Spring MVC
 - Spring Security
@@ -42,14 +39,12 @@ Hello! 👋 My name is Fayzulloh Ravshanxonov, a Java Backend Developer from Uzb
 - HTML5
 
 ### RESTful API Development
-- Spring HATEOAS
 - Spring Data REST
 - Securing REST API
 
 ## Other Skills for Backend Developers
 - Git & GitHub
-- Design Patterns
-- Clean Code Practices
+
 
 ## Contact Me
 Feel free to reach out to me via:
